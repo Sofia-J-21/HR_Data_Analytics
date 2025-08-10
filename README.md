@@ -11,7 +11,7 @@ It helps HR professionals and management teams monitor workforce patterns, track
 HR Analytics Atliq_masked.pbi – Interactive HR dashboard covering attendance trends, attrition analysis, and department-level KPIs.
 
 2. Dataset
-Attendance Sheet 2022-2023_Masked.xlsx – Masked attendance dataset for 2022–2023.
+Attendance Sheet 2022-2023_Masked.xlsx - Masked attendance dataset for 2022–2023.
 
 ## Key Features of the Dashboard
 
